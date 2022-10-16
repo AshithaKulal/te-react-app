@@ -1,0 +1,25 @@
+h4{
+    color:blue;
+    background-color: aquamarine;
+    text-align: center;
+}
+h5{
+    color:red;
+}
+h6{
+    color:violet;
+    text-align: left;
+    margin-top: 20px;
+}
+
+h3{
+    color: green;
+    text-align: center;
+    background-color: aquamarine;
+}
+table{
+    margin-top: 20px;
+    color: black;
+
+
+}
